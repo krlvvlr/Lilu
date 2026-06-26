@@ -5,12 +5,12 @@ AI-powered Telegram chatbot built with Aiogram and Grok.
 ## Features
 
 - AI conversations
-- Long-term memory
 - Image analysis
-- Image generation
+- Long-term memory
 - Telegram Stars payments
 - Referral system
 - SQLite database
+- Premium access management
 
 ## Tech Stack
 
@@ -19,11 +19,12 @@ AI-powered Telegram chatbot built with Aiogram and Grok.
 - xAI (Grok)
 - SQLite
 - Pillow
+- python-dotenv
 
 ## Configuration
 
-Copy `.env.example` to `.env` and fill in your credentials.
+Copy `.env.example` to `.env` and configure your API credentials.
 
 ## Disclaimer
 
-The personality prompt is fully customizable and intended as an example configuration.
+The personality prompt is fully customizable and provided as an example configuration.
